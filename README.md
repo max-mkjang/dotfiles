@@ -6,7 +6,7 @@ bring my environment back.
 ## Install
 
 ```bash
-git clone https://github.com/onelife-onceinalifetime/dotfiles.git ~/dotfiles
+git clone https://github.com/max-mkjang/dotfiles.git ~/dotfiles
 cd ~/dotfiles
 bash packages.sh     # install programs (gh, neovim, ripgrep ...)
 ./bootstrap.sh       # copy configs into home
