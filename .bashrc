@@ -118,3 +118,4 @@ export PATH
 eval "$(starship init bash)"
 eval "$(zoxide init bash)"
 export LS_COLORS="$LS_COLORS:ow=01;34:tw=01;34"
+. "$HOME/.cargo/env"
